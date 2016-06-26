@@ -8,7 +8,7 @@ Feature:
     When she chooses to sign up
     And she provides the first name as Bhanumat
     And she provides the last name as Wiwatmaikul
-    And she provides the email as bhanumat.w@gmail.com
+    And she provides the email as bhanumat2.w@gmail.com
     And she provides the password as password
     And she provides the confirm password again as password
     And she signs-up
