@@ -7,5 +7,5 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "classpath:com/bhanumat/client/features", glue={"com/bhanumat/client/steps"})
-public class RunFeatures {
+public class RunCukesTest {
 }
